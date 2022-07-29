@@ -7,7 +7,7 @@ API for awards APP
 - start : `npm run start`
 - start in dev : `npm dun dev`
 - migrate db : `npm run migrate`
-- seed db : `npm run seed
+- seed db : `npm run seed`
 
 # How To Run
 
