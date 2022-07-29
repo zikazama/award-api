@@ -16,6 +16,10 @@ API for awards APP
 3. run seed
 4. start app
 
+# API Documentation
+
+Postman : `https://documenter.getpostman.com/view/8055761/UzXXMXx6`
+
 # Stack
 
 - Node
